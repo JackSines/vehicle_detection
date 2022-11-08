@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: C:\Users\jacks\OneDrive\Documents\FYP\Artifact\Data\bdd100k\images\100k\train
+val: C:\Users\jacks\OneDrive\Documents\FYP\Artifact\Data\bdd100k\images\100k\val
+
+# number of classes
+nc: 10
+
+# class names
+names: ['pedestrian', 'rider', 'car', 'truck', 'bus', 'train', 'motorcycle', 'bicycle', 'traffic light', 'traffic sign']

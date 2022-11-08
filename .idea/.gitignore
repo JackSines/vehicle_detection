@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+../test_imgs/mono_test_video.mp4
+../yolov5/runs/train/exp/weights/best.pt
+../Miniconda3-py38_4.11.0-Windows-x86.exe
+../Miniconda3-py38_4.11.0-Windows-x86_64.exe
