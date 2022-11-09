@@ -1,10 +1,10 @@
-This folder contains all of the files necessary to set up and test the software
-
+This program uses stereo cameras with a ML algorithm to detect vehicles and calculate distance.
+Written in Python and utilises YOLOv5
+The accompanying paper goes into detail on the research and implementation
 
 INSTRUCTIONS:
 
-install miniconda using one of the installation files included (32 and 64 bit depending on your system)
-it can also be downloaded here: https://docs.conda.io/en/latest/miniconda.html (the python 3.8 32 or 64 bit version)
+install miniconda here: https://docs.conda.io/en/latest/miniconda.html (the python 3.8 32 or 64 bit version)
 
 UNTICK all options during this installation
 
