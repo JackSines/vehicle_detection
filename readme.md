@@ -4,7 +4,8 @@ This project explores the feasibility of using stereo cameras as a replacement f
 
 Written in Python and utilises a custom trained YOLOv5 algorithm for object detection.
 
-The accompanying paper goes into detail on the research and implementation.
+The accompanying paper goes into detail on the research and implementation:
+https://github.com/JackSines/vehicle_detection/blob/master/vehicle%20detection%20paper.pdf
 
 **Some examples of the results:**
 
